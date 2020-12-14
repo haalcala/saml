@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/crewjam/saml"
+	"github.com/haalcala/saml"
 )
 
 func TestCookieSameSite(t *testing.T) {
